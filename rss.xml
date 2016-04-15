@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Actually Actors]]></title>
+        <description><![CDATA[Actually Actors]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 10:10:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>After a great 15 years specialising in websites for entertainment professionals, we have decided that time has come to move on to pastures new. We just wanted to say thank you to all the lovely clients we have worked with over the years. It has been a magic ride alongside some very talented people who we are pleased to now have amongst our best friends.If you have lost our contact details and you want to grab a drink drop us a line at</p>]]></description>
+            <link>undefinedafter-a-great-15-years-specialising-in-websites-for-entertai/index.html</link>
+            <guid isPermaLink="false">2bbaa4d1-54b8-4504-a864-636fa3d42436</guid>
+            <pubDate>Fri, 15 Apr 2016 10:10:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
