@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 'After a great 15 years specialising in websites for entertainment professionals, we have decided that time has come to move on to pastures new. We just wanted to say thank you to all the lovely clients we have worked with over the years. It has been a magic ride alongside some very talented people who we are pleased to now have amongst our best friends.If you have lost our contact details and you want to grab a drink drop us a line at'
-datePublished: '2016-04-15T10:10:28.185Z'
-dateModified: '2016-04-15T10:10:17.923Z'
+datePublished: '2016-05-21T06:19:59.789Z'
+dateModified: '2016-05-21T06:19:46.171Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-15-after-a-great-15-years-specialising-in-websites-for-entertai.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: after-a-great-15-years-specialising-in-websites-for-entertai/index.html
 _type: Article
 
