@@ -1,7 +1,7 @@
 name: Actually Actors
 favicon: null
-layout_spectrum: 0.5584573650266975
-typography_spectrum: 0.59612
+layout_spectrum: 0.99706
+typography_spectrum: 0.2456
 title: 'What Actually Actors did next!'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.003992236452177167
+    - '#ffffff'
+    - '#b2959a'
+    - '#7e2658'
+    - '#180f10'
+    - '#527944'
+  brandStrength: 0.5
   lightness: 0.828816848108545
   saturation: 0.47505525778979063
   rhythmicContrast: 0.4134092202875763
